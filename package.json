@@ -1,0 +1,12 @@
+{
+  "name": "get-local-ipaddress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["local", "ip", "address", "node:os", "ipAddresses"],
+  "author": "rchapmanitt@gmail.com",
+  "license": "ISC",
+  "description": "Displays to console.log the systems local ip address using the node:os module."
+}
